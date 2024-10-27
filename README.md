@@ -6,5 +6,4 @@
 ⚡ Fun fact: N sei
 
 
-![Certificado Credly]([https://www.credly.com/badges/cf15206a-9640-4cd2-ab88-b019e631b45e/public_url](https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png))
-
+![Certificado Credly](https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)
