@@ -18,7 +18,9 @@ Você pode me encontrar em:
 
 ## 🏆 Certificações
 
-<img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="150" />
-<img src="https://images.credly.com/images/abab793c-9992-43aa-9ce8-eae5bf6b5c5b/image.png" width="150" />
+[<img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="150" />](https://www.credly.com/badges/abab793c-9992-43aa-9ce8-eae5bf6b5c5b/public_url)
+
+[<img src="https://images.credly.com/images/abab793c-9992-43aa-9ce8-eae5bf6b5c5b/image.png" width="150" />](https://www.credly.com/badges/abab793c-9992-43aa-9ce8-eae5bf6b5c5b/public_url)
+
 
 
